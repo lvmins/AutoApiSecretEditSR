@@ -125,6 +125,8 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 （我们这里用的公共仓库，按理，你们可以设定无限循环调用，然后6小时启动一次，保证24小时全天候调用）
 
+增加测试调用API
+
 ### 最后 ###
   教程很直白了，应该都会弄吧！
   
